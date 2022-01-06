@@ -75,6 +75,9 @@ Follow https://github.com/leonardbinet/zshcustom instructions.
 
 ### Authy
 https://authy.com/
+```
+brew install --cask authy
+```
 
 ### Dashlane
 https://www.dashlane.com/fr/
