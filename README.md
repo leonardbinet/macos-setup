@@ -169,6 +169,11 @@ brew install --cask sequel-ace
 
 ## Other software
 
+### Chrome
+```
+brew install --cask google-chrome
+```
+
 ### Spotify
 https://www.spotify.com/fr/
 
