@@ -110,6 +110,10 @@ brew install openssl readline sqlite3 xz zlib
 pyenv install <pythonversion>
 ```
 
+#### Virtualenv
+```
+brew install virtualenv
+```
 #### Pipenv
 ```
 pip install pipenv
