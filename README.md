@@ -146,9 +146,15 @@ npm install -g tldr
 Note: requires node.
 
 ### Terraform
-
+Use `tfenv` to easily manage terraform envs:
 ```
-brew install terraform
+brew install tfenv
+```
+
+then
+```
+tfenv install <xxx>
+tfenv use <xxx>
 ```
 
 ### AWS CLI
