@@ -151,6 +151,11 @@ Note: requires node.
 brew install terraform
 ```
 
+### AWS CLI
+```
+brew install awscli
+```
+
 ## GUI development software
 
 ### JetBrains ToolBox
