@@ -145,6 +145,12 @@ npm install -g tldr
 ```
 Note: requires node.
 
+### Terraform
+
+```
+brew install terraform
+```
+
 ## GUI development software
 
 ### JetBrains ToolBox
