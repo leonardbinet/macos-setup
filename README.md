@@ -145,6 +145,11 @@ npm install -g tldr
 ```
 Note: requires node.
 
+### JQ
+```
+brew install jq
+```
+
 ### Terraform
 Use `tfenv` to easily manage terraform envs:
 ```
