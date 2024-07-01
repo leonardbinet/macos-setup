@@ -22,7 +22,8 @@ https://brew.sh/
 ### Show hidden files
 
 ```
-defaults write com.apple.finder AppleShowAllFiles -boolean true; killall Finder
+defaults write com.apple.finder AppleShowAllFiles -bool true; killall Finder
+
 ```
 
 ### Xcode
@@ -176,11 +177,15 @@ brew install --cask jetbrains-toolbox
 ```
 Use it to install PyCharm.
 
-### Lens
-https://k8slens.dev/
+
+### Dbeaver
+
+https://dbeaver.io/
+
 ```
-brew install --cask lens
+brew install --cask dbeaver-community
 ```
+
 
 ### Visual Studio
 https://code.visualstudio.com/
@@ -188,30 +193,6 @@ https://code.visualstudio.com/
 brew install --cask visual-studio-code
 ```
 
-### Sequel Ace
-https://github.com/Sequel-Ace/Sequel-Ace
-```
-brew install --cask sequel-ace
-```
-
-## Other software
-
-### Chrome
-```
-brew install --cask google-chrome
-```
-
-### Spotify
-https://www.spotify.com/fr/
-
-```
-brew install --cask spotify
-```
-
-### ClickUp
-https://clickup.com/
-```
-brew install --cask clickup
 ```
 # Ressources
 https://betterprogramming.pub/how-to-set-up-your-macbook-for-web-development-in-2021-a7a1f53f6462
