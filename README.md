@@ -31,6 +31,13 @@ defaults write com.apple.finder AppleShowAllFiles -bool true; killall Finder
 xcode-select --install
 ```
 
+## Keyboard
+
+Import nocfree keybinding (`./nocfree-keybinding`) via vial:
+
+https://get.vial.today/download/
+
+
 ## Terminal setup
 
 ### Iterm2
@@ -42,6 +49,10 @@ brew cask install iterm2
 ### Iterm2 Key mapping
 
 https://medium.com/macoclock/5-must-have-key-mappings-on-iterm2-to-be-more-productive-21c4daf56348
+
+
+Hotkey: in
+![Profile > Keys](hotkeys.png)
 
 
 ### ZSH
