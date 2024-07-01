@@ -135,11 +135,6 @@ https://github.com/jesseduffield/lazygit
 brew install jesseduffield/lazygit/lazygit
 ```
 
-### Github CLI
-```
-brew install gh
-```
-
 ### Node
 https://treehouse.github.io/installation-guides/mac/node-mac.html
 ```
