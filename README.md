@@ -97,6 +97,12 @@ Reference it in github https://github.com/settings/keys
 
 ## Dev setup
 
+### Docker
+
+```
+brew install --cask docker
+```
+
 ### Python setup
 #### Pyenv
 https://github.com/pyenv/pyenv#installation
