@@ -56,18 +56,9 @@ Hotkey: in
 
 
 ### ZSH
-Even if it's now the default shell in MacOS, use brew to manage it:
 
-https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
-```
-brew install zsh
+Note: this might not be needed anymore since it's the default in Macos.
 
-# add `/usr/local/bin/zsh` in /etc/shells
-vi /etc/shells
-
-# set it as default shell
-chsh -s /usr/local/bin/zsh
-```
 
 ### OhMyZsh
 https://github.com/ohmyzsh/ohmyzsh
