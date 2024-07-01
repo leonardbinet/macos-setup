@@ -77,11 +77,10 @@ Follow https://github.com/leonardbinet/zshcustom instructions.
 
 ## Authentication setup
 
-### Authy
-https://authy.com/
-```
-brew install --cask authy
-```
+### Ente Auth
+https://github.com/ente-io/ente/tree/main/auth#readme
+
+Install via app store.
 
 ### Dashlane
 https://www.dashlane.com/fr/
