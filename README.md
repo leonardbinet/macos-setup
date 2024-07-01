@@ -48,11 +48,13 @@ brew cask install iterm2
 
 ### Iterm2 Key mapping
 
+Import JSON config from `./iterm2-keymapping.json` in Iterm2 > Preferences > Profiles > Other Actions > Import JSON profiles.
+
+Will add the following key mappings:
 https://medium.com/macoclock/5-must-have-key-mappings-on-iterm2-to-be-more-productive-21c4daf56348
 
-
-Hotkey: in
-![Profile > Keys](hotkeys.png)
+And implement following hotkey: in
+![Iterm2 > Preferences > Profiles > Keys](hotkeys.png)
 
 
 ### ZSH
