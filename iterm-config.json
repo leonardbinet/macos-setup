@@ -1,5 +1,5 @@
 {
-  "Working Directory" : "\/Users\/leonardbinet\/repositories\/traace",
+  "Working Directory" : "",
   "Prompt Before Closing 2" : false,
   "Selected Text Color" : {
     "Green Component" : 0,
@@ -69,6 +69,10 @@
   "Custom Command" : "No",
   "HotKey Key Code" : 50,
   "Keyboard Map" : {
+    "0xf704-0x20000" : {
+      "Action" : 10,
+      "Text" : "[1;2P"
+    },
     "0xf700-0x260000" : {
       "Action" : 10,
       "Text" : "[1;6A"
@@ -149,6 +153,13 @@
       "Action" : 10,
       "Text" : "[1;2C"
     },
+    "0xf703-0x380000-0x7c" : {
+      "Version" : 2,
+      "Apply Mode" : 0,
+      "Action" : 0,
+      "Text" : "",
+      "Escaping" : 2
+    },
     "0x7f-0x80000-0x33" : {
       "Version" : 1,
       "Label" : "",
@@ -184,6 +195,13 @@
     "0x34-0x40000" : {
       "Action" : 11,
       "Text" : "0x1c"
+    },
+    "0x70-0x80000-0x23" : {
+      "Version" : 2,
+      "Apply Mode" : 0,
+      "Action" : 10,
+      "Text" : "p",
+      "Escaping" : 2
     },
     "0xf700-0x280000" : {
       "Action" : 11,
@@ -259,9 +277,12 @@
       "Action" : 10,
       "Text" : "[1;5D"
     },
-    "0xf704-0x20000" : {
-      "Action" : 10,
-      "Text" : "[1;2P"
+    "0xf702-0x380000-0x7b" : {
+      "Version" : 2,
+      "Apply Mode" : 0,
+      "Action" : 2,
+      "Text" : "",
+      "Escaping" : 2
     }
   },
   "Ansi 14 Color" : {
